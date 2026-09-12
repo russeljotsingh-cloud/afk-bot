@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Niggesh-TrfF.aternos.me",
+    "ip": "fingerfish.aternos.host:21410",
     "port": 21410,
     "version": "1.20.1",
     "try-creative": false
